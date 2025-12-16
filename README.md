@@ -8,5 +8,5 @@ Repository for tracking my progression and my exercises.
 3. Executable (.exe / a.out) ==> Executing
 
 ## Important Notes
-* **Command for compilation:** `gcc main.c -o my_program`
+* **Command for compilation:** `gcc main.c -o my_program` , The -o flag is used to spectify the output name.
 * **Command for executing:** `./my_program`
