@@ -11,4 +11,4 @@ Repository for tracking my progression and my exercises.
 * **Command for compilation:** `gcc main.c -o my_program` , The -o flag is used to spectify the output name.
 * **Command for executing:** `./my_program`
 * **Flag for Warning and information** `-Wall` or `Wextra`  
-* **Uninitialized Variable:"" If you don't initialize a variable , it contains garbage values(undefined),not necessarily zero.
+* **Uninitialized Variable:** If you don't initialize a variable , it contains garbage values(undefined),not necessarily zero.
